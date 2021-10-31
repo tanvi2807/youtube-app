@@ -1,0 +1,99 @@
+body {
+ position: relative;
+ width: 360px;
+ height: 640px;
+ background: #F9F9F9;
+} 
+
+
+h1 {
+  position: absolute;
+  width: 176px;
+  height: 32px;
+  left: 40px;
+  top: 48px;
+  font-family: Gilroy-Bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #63B4FC;
+}
+
+
+p {
+  position: absolute;
+  width: 280px;
+  height: 104px;
+  left: 40px;
+  top: 104px;
+  font-family: Gilroy-Medium;
+  font-size: 14px;
+  line-height: 16px;
+  color: #A1A1A1;
+}
+
+
+form .c1 {
+	position: absolute;
+  left: 40px;
+  font-size: 18px;
+  font-family: Gilroy-Bold;
+  line-height: 21px;
+  color: #63B4FC;
+  top: 240px;
+}
+
+
+form .c2 {
+	position: absolute;
+  left: 40px;
+  font-size: 18px;
+  font-family: Gilroy-Bold;
+  line-height: 21px;
+  color: #63B4FC;
+  top: 336px;
+}
+
+form .inputBox input {
+  position: absolute;
+  width: 296px;
+  height: 48px;
+  left: -12px;
+  margin-top: 4px;
+  border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 22px;
+}
+
+::placeholder {
+  position: absolute;
+  padding: 14px;
+  font-size: 14px;
+  color: #A1A1A1;
+} 
+
+.formBox form input.btn {
+  position: absolute;
+  width:152px ;
+  height: 40px;
+  background: #63B4FC;
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  align-items: center;
+  border-radius: 22px;
+  font-weight: bolder;
+  font-size: .9rem;
+  bottom: 96px;
+  left: 104px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
